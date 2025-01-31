@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Monica Sharma</h1>
-<h3 align="center">A 2nd year Undergrad and a full stack Developer from India .I'am passionate about creating New projects and contributing to open source.</h3>
+<h3 align="center">A 2nd year Undergrad at Maharaja Surajmal Institute and a Full Stack Developer from India !! <br/>🔭 I am passionate about Web Dev and Like to collaborate with other Tech Enthusiasts.</h3>
+
 
 <p align="left"> <a href="https://twitter.com/monica5har" target="blank"><img src="https://img.shields.io/twitter/follow/monica5har?logo=twitter&style=for-the-badge" alt="monica5har" /></a> </p>
 
 - 🌱 I’m currently learning **NodeJs, AWS**
+- 👯 I’m looking to collaborate on the Frontend. 
 
 - 📫 How to reach me **monicasharma0120777@mailcom**
 

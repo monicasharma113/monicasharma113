@@ -5,9 +5,9 @@
 <p align="left"> <a href="https://twitter.com/monica5har" target="blank"><img src="https://img.shields.io/twitter/follow/monica5har?logo=twitter&style=for-the-badge" alt="monica5har" /></a> </p>
 
 - 🌱 I’m currently learning **NodeJs, AWS**
-- 👯 I’m looking to collaborate on the Frontend. 
+-  I’m looking to collaborate on the Frontend. 
 
-- 📫 How to reach me **monicasharma0120777@mailcom**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
